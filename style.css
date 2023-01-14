@@ -1,0 +1,40 @@
+.heading
+{
+    display: flex;
+    background-color: rgb(25, 0, 48);
+    color: white;
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+
+}
+.images01
+{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 15px;
+
+}
+.images01 img
+{
+    margin-left: 20px;
+    border-radius: 10px;
+    
+}
+.images02
+{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 15px;
+
+}
+.images02 img
+{
+    margin-left: 20px;
+    border-radius: 10px;
+    
+}
